@@ -1,0 +1,5 @@
+C:\Personal\Test projects\Test\Webapi\PatientDemog.Data\bin\Debug\PatientDemog.Data.dll.config
+C:\Personal\Test projects\Test\Webapi\PatientDemog.Data\bin\Debug\PatientDemog.Data.dll
+C:\Personal\Test projects\Test\Webapi\PatientDemog.Data\bin\Debug\PatientDemog.Data.pdb
+C:\Personal\Test projects\Test\Webapi\PatientDemog.Data\obj\Debug\PatientDemog.Data.dll
+C:\Personal\Test projects\Test\Webapi\PatientDemog.Data\obj\Debug\PatientDemog.Data.pdb

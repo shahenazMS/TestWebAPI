@@ -1,0 +1,12 @@
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\PatientDb.Test.exe.config
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\PatientDb.Test.exe
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\PatientDb.Test.pdb
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\EntityFramework.dll
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\PatientDemog.Data.dll
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\PatientDemog.Data.pdb
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\EntityFramework.xml
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\obj\Debug\PatientDb.Test.csprojResolveAssemblyReference.cache
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\obj\Debug\PatientDb.Test.exe
+C:\Personal\Test projects\Test\Webapi\PatientDb.Test\obj\Debug\PatientDb.Test.pdb
